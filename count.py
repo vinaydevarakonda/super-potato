@@ -2,6 +2,6 @@ word = int(input("enter the count"))
 for i in range(1,word):
   print("did it")
  
-text = input("Enter your text")
-for i in text:
+word = input("Enter your words")
+for i in word:
   print(i)
